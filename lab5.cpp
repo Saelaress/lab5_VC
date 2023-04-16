@@ -76,7 +76,7 @@ int main()
 		// third 2: change 34
 		token = strtok_s(DOC, seps, &next_token);
 		
-		// third 3
+		// third 3: change 56
 		while (token != NULL) {	
 			// third 4
 			puts(token);
