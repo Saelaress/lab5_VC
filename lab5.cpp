@@ -45,7 +45,7 @@ int main()
 		// second 3: change 56
 		if (isalnum(text[i + 1][0])) {
 			_strrev(text[i]);
-			//second 4
+			//second 4: change 78
 			if (isalnum(text[i][0])) {
 				_strrev(text[i]);
 				strcat_s(DOC, text[i]); strcat_s(DOC, " ");
