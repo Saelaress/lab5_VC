@@ -18,7 +18,7 @@ int main()
 	if ((M > 21) || (M < 1)) {
 		// main 2: change 34
 		error_printf("Неверное количество строк");
-		// main 3
+		// main 3: change 56
 		return 0;
 	}
 	
