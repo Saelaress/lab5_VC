@@ -73,7 +73,7 @@ int main()
 	char* next_token;
 	char* token;
 	
-		// third 2
+		// third 2: change 34
 		token = strtok_s(DOC, seps, &next_token);
 		
 		// third 3
