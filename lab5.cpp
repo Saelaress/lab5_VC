@@ -16,7 +16,7 @@ int main()
 	getchar();
 	// main 1: change 12
 	if ((M > 21) || (M < 1)) {
-		// main 2
+		// main 2: change 34
 		error_printf("Неверное количество строк");
 		// main 3
 		return 0;
