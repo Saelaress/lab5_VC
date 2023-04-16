@@ -40,7 +40,7 @@ int main()
 		// second 1: change 12
 		sum += strlen(text[i]);
 	}
-	// second 2
+	// second 2: change 34
 	for (i = 0; i < M; i++) {
 		// second 3
 		if (isalnum(text[i + 1][0])) {
