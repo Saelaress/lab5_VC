@@ -68,7 +68,7 @@ int main()
 	COD[sum] = '\0';
 	char* istr;
 
-	// third 1
+	// third 1: change 12
 	char seps[] = "?!.";
 	char* next_token;
 	char* token;
