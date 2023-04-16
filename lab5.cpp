@@ -23,7 +23,7 @@ int main()
 	}
 	
 	for (i = 0; i < M; i++) {
-			// main 4
+			// main 4: change 78
 		puts("Введите содержимое строки: ");
  		gets_s(text[i]);
 		strlen(text[i]);
