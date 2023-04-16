@@ -42,7 +42,7 @@ int main()
 	}
 	// second 2: change 34
 	for (i = 0; i < M; i++) {
-		// second 3
+		// second 3: change 56
 		if (isalnum(text[i + 1][0])) {
 			_strrev(text[i]);
 			//second 4
