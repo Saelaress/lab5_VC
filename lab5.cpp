@@ -14,7 +14,7 @@ int main()
 	printf("Введите количество строк(максимально 21): ");
 	scanf_s("%d", &M);
 	getchar();
-	// main 1
+	// main 1: change 12
 	if ((M > 21) || (M < 1)) {
 		// main 2
 		error_printf("Неверное количество строк");
