@@ -37,7 +37,7 @@ int main()
 	
 	//////////// second area ////////////
 	for (i = 0; i < M; i++) {
-		// second 1
+		// second 1: change 12
 		sum += strlen(text[i]);
 	}
 	// second 2
